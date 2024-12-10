@@ -1,10 +1,10 @@
 ---
-page_type: sample
+page_type: Personal Experiement
 languages: 
 - kusto
 products: 
-- mdatp
-description: "Microsoft Defender ATP repository for PowerBI reports"
+- Defender XDR
+description: "Microsoft Defender XDR repository for PowerBI reports"
 ---
 # Microsoft Defender ATP PowerBI reports samples
 
