@@ -12,7 +12,7 @@ Welcome to the repository for PowerBI reports using Microsoft Defender data!
 This repository is a starting point for all Microsoft Defender's users to share PowerBI reports that utilizes Microsoft Defender data.
 
 ## Prerequisites
-Download & install [PowerBI desktop](https://powerbi.microsoft.com/en-us/desktop/)
+Download & install [PowerBI desktop](https://powerbi.microsoft.com/en-us/desktop/) or from Microsoft Store App
 
 ## Getting started?
 Learn to create a Power BI report on top of Microsoft Defender ATP APIs(https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/api-power-bi)
